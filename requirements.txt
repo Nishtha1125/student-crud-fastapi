@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+
+# to run:  uvicorn main:app --reload
+# fastapi
+# uvicorn
+
+# run: python -m uvicorn student_crud:app --reload
